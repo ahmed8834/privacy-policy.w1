@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Hidden Word Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        ul {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy - Hidden Word Game</h1>
+        <p>Last updated: July 20, 2026</p>
+
+        <p>At <strong>Black Rose</strong>, we are committed to protecting the privacy of our <strong>Hidden Word</strong> game users. This policy explains what information we may collect and how it is handled.</p>
+
+        <h2>1. Data Collection</h2>
+        <p>We do <strong>not</strong> collect any personal data (such as your real name, phone number, address, or email) from users of the game. The game does not require a login and does not request access to your contacts or personal files on your device. The optional nickname you enter to appear on the leaderboard is stored only on your device and is never sent to us.</p>
+
+        <h2>2. Usage Data and Advertising</h2>
+        <p>Non-personal technical data may be collected through Google Play services (such as crash statistics or app performance) to improve the gameplay experience. If the game displays ads, the Google AdMob network may collect your device's Advertising ID to show and personalize relevant ads, and the Google User Messaging Platform (UMP) is used to collect your ad-personalization consent where required by law (such as GDPR in Europe). This is handled in accordance with Google's own privacy policies.</p>
+
+        <h2>3. Data Security</h2>
+        <p>We take reasonable security measures to protect the app, and since we do not collect or store any user-specific data on external servers, there is no risk associated with your personal data on our end. All gameplay data (nickname, scores, settings) stays stored on your device only, and is permanently deleted when you uninstall the game.</p>
+
+        <h2>4. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time to keep up with game updates or legal requirements. Any changes will be posted directly on this page, and we recommend reviewing it periodically.</p>
+
+        <h2>5. Contact Us</h2>
+        <p>If you have any questions or inquiries about this Privacy Policy, you can reach us at the following email address:</p>
+        <p><strong>ahmedyooka300@gmail.com</strong></p>
+    </div>
+</body>
+</html>
